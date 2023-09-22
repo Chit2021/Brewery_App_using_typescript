@@ -15,5 +15,5 @@ Fetch, display, and search for brewery companies from the given API endpoint, us
 5. Deploy your application and rewrite README file
 
 ##To run
-npm install
-npm run
+1. npm install
+2. npm run
